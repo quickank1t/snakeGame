@@ -7,7 +7,7 @@ I tried to made the game with the help of one single 1d array.
 
 Used w,a,s and d for movement w to go up, a to go left, d to go right and s to go down.
 
-#technology
+#Technology
 -core java
 
 #There are 4 classes in the project.
