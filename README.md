@@ -22,7 +22,7 @@ Snkae
       It manages the snake.basically keep the track on which direction is it going and checking if the moves is legit or not(for instance if the snake is going right and we press the left move key it will still go right)
 
 
-#result
+#Result
 
 Achived the desire result in 4 days
 
